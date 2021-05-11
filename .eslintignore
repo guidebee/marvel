@@ -1,0 +1,15 @@
+coverage/
+build/
+node_modules/
+/node_modules/
+internals/generators/
+internals/scripts/
+internals/webpack/
+/node_modules/*
+flow-typed/
+/flow-typed/
+custom-typed/
+/custom-typed/
+azure
+/azure
+**/*.svg
