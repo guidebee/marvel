@@ -4,7 +4,7 @@
  ![react ](https://media-exp1.licdn.com/dms/image/C5612AQE5Zu5Ms_ZDrA/article-inline_image-shrink_1500_2232/0/1540565846071?e=1626307200&v=beta&t=LMsC5Kp_mjPJJGPa_PN1x0aIvkRY1YDBtu9w-OmVa2o)
 
 * Demo screenshot
-
+  ![demo](https://github.com/guidebee/marvel/blob/master/images/marvel.gif)
 ## Prerequisites
 
 [Node JS](https://nodejs.org) version LTS 12.13.0  
